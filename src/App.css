@@ -1,0 +1,56 @@
+
+/* 
+.Twitter_Card{
+  background-color: black;
+  width: 580px;
+  height: 300px; 
+  display: flex;
+  flex-direction: column; 
+}
+
+.homework{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 95vh;
+}
+
+
+#comment,#heartdislike,#share,#retweet,#inbox,#views{
+  color: gray;
+  height: 5mm;
+}
+
+#heartlike{
+  color: red;
+  
+  height: 5mm;
+}
+#comment{
+  transform: translateX(-50%) scale(-1, 1)
+}
+
+#menu{
+  color: gray;
+  height: 6mm;
+  display: flex;
+  align-self: flex-end;
+  margin: 20px;
+}
+
+
+.button{
+
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around;
+  flex-grow: 1;
+  margin-bottom: 2%;
+}
+
+.count{
+  color: gray;
+  position: absolute;
+  left: 53%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+} */
